@@ -9,4 +9,4 @@ console.log(TemplateLiterals);
 
 const headerContent = document.querySelector(`h1`);
 headerContent.innerHTML = TemplateLiterals;
-headerContent.classList.add('heading1');
+headerContent.classList.add('headingPrimary');
